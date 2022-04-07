@@ -1,4 +1,4 @@
-# Calculadora do windows 10 em HTML
+# Calculadora de windows en HTML
 
 # Datos
 - Los datos son ingresados al sistema por medio de la UI.
